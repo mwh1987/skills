@@ -4,9 +4,27 @@
   "groupings": [
     {
       "title": "Search",
-      "description": "Skills for cloud drive resource searching.",
+      "description": "Skills for local or cloud drive resource searching.",
       "skills": [
-        "pansou"
+        "pansou",
+        "everything-cli"
+      ]
+    },
+    {
+      "title": "Downloaders",
+      "description": "Skills for downloading files and media.",
+      "skills": [
+        "aria2-downloader",
+        "video-downloader",
+        "xunlei-download"
+      ]
+    },
+    {
+      "title": "Cloud Drives",
+      "description": "Skills for cloud drive storage and client control.",
+      "skills": [
+        "baidu-drive",
+        "ctyun-cli"
       ]
     }
   ]

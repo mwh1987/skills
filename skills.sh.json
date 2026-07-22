@@ -24,7 +24,8 @@
       "description": "Skills for cloud drive storage and client control.",
       "skills": [
         "baidu-drive",
-        "ctyun-cli"
+        "ctyun-cli",
+        "trim-cli"
       ]
     }
   ]

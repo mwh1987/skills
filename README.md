@@ -57,3 +57,11 @@ To install this skill on your AI agent, run:
 ```bash
 npx skills add mwh1987/skills/ctyun-cli
 ```
+#### 📦 TRIM NAS / fnOS 命令行客户端 (`trim-cli`)
+TRIM NAS（飞牛网盘 fnOS）命令行客户端工具，提供文件管理、共享目录、下载中心、应用中心、Docker 容器与镜像管理、存储池与磁盘 SMART 诊断及系统监控等能力
+
+To install this skill on your AI agent, run:
+```bash
+npx skills add mwh1987/skills/trim-cli
+```
+

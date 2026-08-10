@@ -64,4 +64,13 @@ To install this skill on your AI agent, run:
 ```bash
 npx skills add mwh1987/skills/trim-cli
 ```
+### 📚 Knowledge Base (知识库)
+Skills for knowledge base and vector search.
+#### 📦 Chroma 知识库 (`chroma-kb`)
+本地 Chroma 向量数据库，支持 FastEmbed BGE-small-zh-v1.5 语义检索和 markitdown 文档摄入。用于构建本地语义知识库，支持中文文档搜索和 RAG 应用。
+
+To install this skill on your AI agent, run:
+```bash
+npx skills add mwh1987/skills/chroma-kb
+```
 

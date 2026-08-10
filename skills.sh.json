@@ -27,6 +27,13 @@
         "ctyun-cli",
         "trim-cli"
       ]
+    },
+    {
+      "title": "Knowledge Base",
+      "description": "Skills for knowledge base and vector search.",
+      "skills": [
+        "chroma-kb"
+      ]
     }
   ]
 }
